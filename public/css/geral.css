@@ -1,0 +1,36 @@
+@media screen and (max-width: 767px) {
+    #barra-menu-lateral{
+        background-color: #FFDD00;
+        min-height: 100vh;
+        padding-top:4em;
+        display: none;
+    }
+}
+@media screen and (min-width: 768px) {
+    #barra-menu-lateral{
+        background-color:#FFDD00;
+        min-height: 100vh;
+        padding-top:4em;
+        display: none;
+    }
+}
+#nav-menu{
+    z-index: 2020;
+}
+#barra-menu-lateral{
+    z-index: 2010;
+}
+
+.icone-menu-lateral{
+    cursor: pointer;
+}
+.btn-menu-lateral{
+    cursor: pointer;
+}
+.div-pai{
+    min-height: 100vh;
+}
+
+.mensagem-erro{
+    color: #ff0000;
+}

@@ -1,0 +1,10 @@
+Olá!
+Este banco de dados foi exportado pelo phpMyAdmin
+ e possui alguns itens bem como o usuário para acesso à plataforma
+
+login: admin@admin
+senha: 12345678
+
+nome do banco: bd_uniasselvi
+usuário: root
+senha: 
